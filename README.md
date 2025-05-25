@@ -1,2 +1,5 @@
 # bmrfthingysite
-its a website
+its a website 
+
+requirements:
+a browser
